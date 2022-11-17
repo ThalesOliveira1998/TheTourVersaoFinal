@@ -1,2 +1,1 @@
-# TheTourVersaoFinal
-# TheTourVersaoFinal
+Esse projeto vem de uma ideia, onde tento solucionar um problema ou uma falta de eficiência turistica, o projeto pode ser escalonado para diversas cidades. O usuário entra na aplicação e procura entretenimento em determinada localidade, a principio serão catalogados: Restaurantes, Ambientes de vida noturna, passeios, praias e pontos turisticos. No futuro o usuario poderá aderir a determinadas prefêrencias fazendo com que a sua expêriencia seja aprimorada.
